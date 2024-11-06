@@ -2,7 +2,7 @@
     <img src="docs/img/logo.svg" width="30%" align="center" alt="UniversalController">
 </p>
 
-# UniversalController [![Build Status][github-actions-image]][github-actions-url] [![Go Report Card][goreport-image]][goreport-url] [![GoDoc][godoc-image]][godoc-url]
+
 
 A Go library to create [feedback loop/control controllers][control-theory], or in other words... a Go library to create controllers without Kubernetes resources.
 
